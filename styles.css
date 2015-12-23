@@ -1,0 +1,357 @@
+body{
+	background-color: #a8a8a8;
+
+}
+
+.head a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+.all{
+	margin: 15px;
+
+}
+.top{
+	width: 100%;
+}
+.top .pull-left{
+	padding-left:0px;
+}
+.top .pull-right{
+	padding-left:0px;
+}
+.head li {
+  display: inline;
+}
+.head{
+	background-color:#e0e0e0;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	margin-top: 10px;
+}
+.navbar-inverse{
+	border-radius: 0px;
+]
+}.pull-left h6{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+.navbar-nav li{
+}
+.main-area{
+	height: auto;
+	width: 100%;
+	background-color: #e0e0e0;
+	margin-top: 0px;
+	padding-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+.main-block{
+	padding-left: 12px;
+}
+
+.sub-block .thumbnail{
+	background-color:lightblue;
+	box-shadow: 2px 2px 5px #808080;
+
+}
+.blocks1{
+	padding: 10px;
+	text-align: justify;
+	border-radius: 10px;
+	box-shadow: 2px 2px 5px #808080;
+}
+.blocks2{
+	padding: 10px;
+}
+.blocks2 ul{
+	margin-right: 25px;
+
+}
+.blocks2 h2{
+	margin: 0px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+.thumbnail h1{
+	padding-top: 0px;
+	margin-top: 0px;
+
+}
+
+.rest{
+	width: 100%;
+	padding-left:40px ;
+	padding-right:40px ;
+}
+.col-md-4 p{
+	padding: 30px;
+}
+.container p span{
+	font-size: 50px;
+	padding-top: 20px;
+	margin: 0px;
+
+}
+.navbar-inverse{
+	margin-bottom: 0px;
+}
+.pull-left img{
+	width: 300px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	padding-top: 20px;
+}
+
+#nav-mobile{
+	display: none;
+}
+
+.navbar-header{
+	display: none;
+}
+
+.highlight-box p{
+	text-align: center;
+	margin-top: 10px;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.highlight-box h3{
+	text-align: center;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+}
+
+.highlight-box-inner{
+	background-color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 10px;
+	box-shadow: 2px 2px 5px #808080;
+	padding-top: 10px;
+
+}
+
+.highlight-box-inner span{
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+.highlight-box-inner h2{
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+.highlight-box{
+	margin-top: 10px;
+	opacity: 0.7;
+}
+.highlight-box:hover{
+	transition:1000ms;
+	opacity: 1;
+}
+
+.footer{
+	width: 100%;
+	height:50px;
+	background-color: #171717;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+.footer p{
+	padding-top: 15px;
+	color: white;
+	text-align: center;
+}
+
+
+/*Dropdown Style*/
+
+.marginBottom-0 {margin-bottom:0;}
+
+.dropdown-submenu{position:relative;}
+.dropdown-submenu>.dropdown-menu{top:0;left:100%;margin-top:-6px;margin-left:-1px;-webkit-border-radius:0 6px 6px 6px;-moz-border-radius:0 6px 6px 6px;border-radius:0 6px 6px 6px;}
+.dropdown-submenu>a:after{display:block;content:" ";float:right;width:0;height:0;border-color:transparent;border-style:solid;border-width:5px 0 5px 5px;border-left-color:#cccccc;margin-top:5px;margin-right:-10px;}
+.dropdown-submenu:hover>a:after{border-left-color:#555;}
+.dropdown-submenu.pull-left{float:none;}.dropdown-submenu.pull-left>.dropdown-menu{left:-100%;margin-left:10px;-webkit-border-radius:6px 0 6px 6px;-moz-border-radius:6px 0 6px 6px;border-radius:6px 0 6px 6px;}
+
+/*End Dropdown Style */
+
+
+
+
+
+
+/* Jumbotron */
+
+.jumbotron {
+  background-image:url('resources/meeting.jpg');
+  opacity: 0.6;
+  transition: 1000ms;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 0px;
+  padding: 15px;
+
+}
+.jumbotron:hover{
+	background-image:url('resources/meeting.jpg');
+	opacity: 1;
+  	transition: 1000ms;
+}
+.jumbotron h1{
+	color: black;
+	text-shadow: 2px 2px 5px #ffffff;
+	margin-top: 0px;
+}
+.jumbotron .sub{
+	color: black;
+	text-shadow: 1px 1px 1px #ffffff;
+	
+}
+.large{
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+.container .jumbotron{
+	 border-radius: 0px;
+
+}
+/* End Jumbotron */
+
+
+
+
+/* The Search Bar */
+	#tfheader{
+		
+	}
+	#tfnewsearch{
+		float:right;
+		padding:20px;
+	}
+	.tftextinput{
+		margin: 0;
+		padding: 5px 15px;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size:14px;
+		border:1px solid #0076a3; border-right:0px;
+		border-top-left-radius: 5px 5px;
+		border-bottom-left-radius: 5px 5px;
+	}
+	.tfbutton {
+		margin: 0;
+		padding: 5px 15px;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size:14px;
+		outline: none;
+		cursor: pointer;
+		text-align: center;
+		text-decoration: none;
+		color: #ffffff;
+		border: solid 1px #0076a3; border-right:0px;
+		background: #0095cd;
+		background: -webkit-gradient(linear, left top, left bottom, from(#00adee), to(#0078a5));
+		background: -moz-linear-gradient(top,  #00adee,  #0078a5);
+		border-top-right-radius: 5px 5px;
+		border-bottom-right-radius: 5px 5px;
+	}
+	.tfbutton:hover {
+		text-decoration: none;
+		background: #007ead;
+		background: -webkit-gradient(linear, left top, left bottom, from(#0095cc), to(#00678e));
+		background: -moz-linear-gradient(top,  #0095cc,  #00678e);
+	}
+	/* Fixes submit button height problem in Firefox */
+	.tfbutton::-moz-focus-inner {
+	  border: 0;
+	}
+	.tfclear{
+		clear:both;
+	}
+
+/* End Search Bar */
+
+
+
+
+/* Resizing Styles */
+
+@media only screen and (max-width: 767px){
+	.head .container .pull-left img{
+		width: 80%;
+		text-align: center;
+		margin-left: auto;
+		margin-left: auto;
+
+	}
+}
+@media only screen and (max-width: 767px){
+	.head .container .pull-left{
+		float: none;
+		text-align: center;
+		margin-left: auto;
+		margin-left: auto;
+
+	}
+}
+@media only screen and (max-width: 767px){
+	.head .container .pull-right{
+		float: none;
+		text-align: center;
+		margin-left: auto;
+		margin-left: auto;
+
+	}
+}
+
+@media only screen and (max-width: 767px){
+	#nav-mobile{
+		display: inline;
+
+	}
+}
+@media only screen and (max-width: 767px){
+	#nav-desktop{
+		display: none;
+
+	}
+}
+@media only screen and (max-width: 767px){
+	.navbar-header{
+		display: inline;
+	}
+}
+@media only screen and (max-width: 767px){
+	.highlight-box{
+		padding-left: 5px;
+		padding-right: 5px ;
+	}
+}
+@media only screen and (max-width: 767px){
+	.highlight-box-inner{
+		padding-left: 5px;
+		padding-right: 5px ;
+	}
+}
+@media only screen and (max-width: 767px){
+	.main-block{
+		padding-left: 5px;
+		padding-right: 5px ;
+	}
+}
+@media only screen and (max-width: 767px){
+	.highlight-box h3{
+		font-size: 20px;
+	}
+}
+
