@@ -203,7 +203,7 @@ body{
 
 }
 .jumbotron:hover{
-	background-image:url('resources/meeting.jpg');
+	background-image:url('http://i.imgur.com/8caQhp9.jpg');
 	opacity: 1;
   	transition: 1000ms;
 }
